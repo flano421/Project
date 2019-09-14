@@ -1,0 +1,85 @@
+Personal Information
+
+Steven Flanigan
+Student Number: s3819610
+Email: S3819610@student.rmit.edu.au
+
+I am from country New South Wales, I have studied cert 2 & 3 Hospitality and cert 2 Retail Systems before enrolling in this course. The primary language I speak is English.
+I have a few hobbies which include playing video games, reading.
+
+Interest in IT
+
+My interest in IT is varied I enjoy programming and learning how applications work, as well as tinkering with computers and fixing any problems I come across. My Interest in IT started when I was in high school and took computer studies, in the course we learned about the history of computers and software and as an extra curricular activity I learned how to program in BASIC and even entered a competition in programming but did not place well. My IT experience is: Building computers, fixing computers, programming, using linux and windows.
+
+I was looking at a career change and sick of doing the same thing year in, year out with being unemployed and having trouble getting a job, doing work for the dole for half a year, every year, for the last five years so I decided to take the plunge and look at university study. I wanted to get into the software engineering field so I looked at Open Universities Australia to see what they had to offer. They offered the Bachelor of Information Technology and it has subjects that pertain to the job I want so I enrolled and it just so happens that the course was through RMIT.
+
+I expect to learn a lot of different things in this course and hopefully get a job at the end of it. I expect there will be different subjects that pretain to networking and cyber security as well as programming and general subjects in Information Technology. So I think it will be good to learn all those things as I might have to work in different fields that relie on different knowledge bases.
+
+Ideal Job
+
+A software engineer position with an emphasis on c++ programming in a business that deals with cyber security, finanical and personal fraud protection. This position appeals to me because I enjoy the c++ programming language and its verstility to use other libaries to give it more functionality and this seems like a great opportunity to explore it.
+
+The skills needed for this job are a working understanding of the c++ programming language as well as the python programming language, a working knowledge of the linux environment and being able to work in a team.
+
+I currently know a little about the c++ programming language as I am slowly learning it through udemy in my spare time or when I remember about it. I also have knowledge on a variety of different distributions of linux include Arch, Ubuntu and its derivatives, OpenSuse and Fedora. I also work as part of a team at my voluntary work at the Salvation Army Family Store in my town.
+
+I would continue to learn c++ until I am good enough at it as well as start learning python and how to program with these languages in a linux environment perferably an Arch based linux distro.
+
+Persoanl Profile
+
+I am organised, a practical thinker, loyal and hard working and I like to plan ahead of time I learn things from watching and listening. I am also open to new ideas and new ways of thinking and am very agreeable and I respect everyone.
+
+These results show that I can work well in a team and can contribute with ideas and suggestions to help out the team. I am also a hard worker so I can contribute a lot to a team and open to other ideas from the other team members. I respect everyone so I am easy to get along with in the team.
+
+I should take this info into account very sparingly as these tests are just an indication of what a person may be like. If I meet them as well as use these tests I could pick the best team members that are going to work constructively together and get the job done.
+
+Project Idea
+
+Overview
+
+Using advanced ai techniques like neural networks to improve enemy and NPC ai in videogames to make the ai less predictable and enhance the overall experience for players.
+
+Motivation
+
+I find ai in videogames to be predicatable, thus making games easy to beat, exploit it to do things that make things easier or levels easier. I want to bring advanced ai techniques like neural networks into games to change the ai from being really predicatble and make games a better experience in my opinion.
+
+Description
+
+Develop a videogame that has ai that uses neural networking as well as the standard ai scripting to enhance the ai of the enemy ai entities and NPC entites in the game to make them less predictable and have them react to the player in a better way thus enhancing the experience of the videogame. 
+
+Tools and Technologies
+
+* A game development engine (Unity, Unreal)
+* A IDE for scripting in the game (Mircosoft Visual Studio, Codeblocks)
+* A Python IDE to script the nureal network for the ai scripts (IDLE, PyCharm)
+* A computer with hardware enough to run these programs
+* A graphics program to develop the ingame models (photoshop, Gimp)
+* A 3D modelling software to build ingame models (Blender, Maya)
+
+Skills Required
+
+* Unity or Unreal experience
+* C# or C++ programming skills
+* Python programming skills
+* Graphic Design skills
+* 3D modelling skills
+
+These skills, software and hardware should be easy to find as the software reqired will rn on most modern computer systems the only trouble I can see is getting people with experience wit to build the 3D models required for the game.
+
+Outcome
+
+If this project is successful it will have NPC ai that is not predictable and exploitable and will react better with the player and increase the player experience. The ai will interact better with the users and the environment thus making the overall experience a better one. This project might show that using neural networking in videogames can be feasible and it can improve user experiences.
+
+Reference List
+
+[1] SEEK
+https://www.seek.com.au/job/39855048?type=promoted&searchrequesttoken=7bbd1973-191c-4777-90a3-eab4c16b3501
+
+[2] Psych Central.com
+https://www3.psychcentral.com/quizzes/personality/index.php?sid=2fca89aef2c792cb67c316a669ffe5912fca89aef2c792cb67c316a669ffe591&fi0=JP-13-O&si0=3&fi1=IE-07-S&si1=5&fi2=SN-20-O&si2=1&fi3=JP-05-S&si3=1&fi4=IE-15-S&si4=1&fi5=FT-02-O&si5=1&fi6=SN-32-O&si6=1&pg=8&demog=37%7CAU%7Cmale&olditems=3%3AIE-23-O%7C5%3AJP-17-S%7C1%3AIE-31-S%7C1%3AIE-11-O%7C3%3AFT-18-O%7C1%3ASN-08-S%7C5%3AFT-06-S%7C1%3AJP-25-O%7C%3A%7C%3A%7C3%3AFT-26-O%7C3%3AJP-01-S%7C5%3ASN-04-O%7C3%3AJP-21-S%7C5%3AFT-30-O%7C3%3AIE-03-O%7C5%3ASN-15-S%7C5%3AIE-19-O%7C%3A%7C%3A%7C5%3AFT-22-S%7C1%3AJP-29-O%7C3%3ASN-28-S%7C5%3AFT-10-S%7C5%3AJP-09-O%7C1%3ASN-24-O%7C5%3AFT-14-S%7C5%3AIE-27-O%7C%3A%7C%3A%7C1%3ASN-16-S%7C1%3AJP-13-S%7C3%3AIE-07-O%7C3%3ASN-20-S%7C1%3AJP-05-O%7C1%3AIE-15-O%7C1%3AFT-02-S%7C5%3ASN-32-S%7C%3A%7C%3A%7C1%3AJP-17-O%7C3%3AIE-23-S%7C5%3AIE-31-O%7C3%3AIE-11-S%7C1%3AFT-18-S%7C3%3ASN-08-O%7C3%3AFT-06-O%7C5%3AJP-25-S%7C%3A%7C%3A%7C1%3AFT-26-S%7C1%3AJP-01-O%7C1%3ASN-04-S%7C1%3AJP-21-O%7C1%3AIE-03-S%7C3%3ASN-12-O%7C5%3AIE-19-S%7C5%3AFT-22-O%7C%3A%7C%3A%7C1%3AJP-29-S%7C5%3ASN-28-O%7C5%3AFT-10-O%7C5%3AJP-09-S%7C5%3ASN-24-S%7C3%3AFT-14-O%7C5%3AIE-27-S%7C1%3ASN-16-O%7C%3A%7C%3A%7C&Submit=+++Continue+on+to+Part+9+of+the+Test+++
+
+[3] What's Your Learning Style? 20 Questions
+http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml?event=results&A=8&V=8&T=4
+
+[4] The Big Five Personality Test
+https://www.truity.com/personality-test/13683/test-results/9290001
